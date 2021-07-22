@@ -36,6 +36,6 @@ For the first time, designers can create and ship beautiful animations without a
   s.ios.frameworks = ['UIKit', 'CoreGraphics', 'QuartzCore']
   s.tvos.frameworks = ['UIKit', 'CoreGraphics', 'QuartzCore']
   s.osx.frameworks = ['AppKit', 'CoreGraphics', 'QuartzCore']
-  s.module_name = 'Lottie'
-  s.header_dir = 'Lottie'
+  s.module_name = 'LottieMac'
+  s.header_dir = 'LottieMac'
 end
