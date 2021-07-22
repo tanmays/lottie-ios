@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/lottie-ios.git"
+    "url": "git+https://github.com/tanmays/lottie-macos.git"
   },
   "author": "Brandon Withrow <buba447@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/airbnb/lottie-ios/issues"
+    "url": "https://github.com/tanmays/lottie-macos/issues"
   },
-  "homepage": "https://github.com/airbnb/lottie-ios#readme"
+  "homepage": "https://github.com/tanmays/lottie-macos#readme"
 }
